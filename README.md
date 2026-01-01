@@ -32,6 +32,8 @@ You can disable any of the input methods and adjust how fast they change brush s
 
 <img width="383" height="603" alt="2026-01-01 09-01-03" src="https://github.com/user-attachments/assets/448ba9f3-deb1-49f7-8585-e7c8419135bf" />
 
+When rapid double-taps are detected by the plugin, the double tap multiplier is applied to make brush size changes more dramatic while you tap at that speed. Adjust the burst counts if you feel like the taps change brush size too much or too little.
+
 ### Assign your Keyboard Shortcuts
 
 Top bar in Krita: `Settings → Configure Krita → Keyboard Shortcuts → Quick Brush Size`
