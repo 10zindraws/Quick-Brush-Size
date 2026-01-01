@@ -3,7 +3,7 @@
 The default shortcuts keys `[` and `]` increase or decrease your brush size in Krita.
 When you hold down a key, the brush size changes rather slowly making you hold and wait longer than necessary. 
 
-Quick Brush Size is a Krita plugin that adds two keyboard shortcuts that increase and decrease your brush size faster than Krita's default shortcuts. It also recognizes when you tap your shortcut keys rapidly to change the brush size quicker. This effectively gives you three input methods for more nuanced brush size control rather than just the original two (tap and hold).
+Quick Brush Size is a Krita plugin that adds two keyboard shortcuts that increase or decrease your brush size faster than Krita's default shortcuts. It also recognizes when you tap your shortcut keys rapidly to change the brush size quicker. This effectively gives you three input methods for more nuanced brush size control rather than just the original two (tap and hold).
 
 #### Tapping
 
