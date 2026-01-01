@@ -12,12 +12,11 @@ Quick Brush Size is a Krita plugin that adds two keyboard shortcuts that increas
 
 #### Double-tapping / Rapid-tapping
 
-![2doubletapping|400x399, 50%](https://github.com/user-attachments/assets/14971262-ed44-4c7b-a5e9-aad93d4ba575)
-
+<img src="https://github.com/user-attachments/assets/14971262-ed44-4c7b-a5e9-aad93d4ba575" alt="2doubletapping" width="50%">
 
 #### Holding
 
-![3holding|400x399, 50%](https://github.com/user-attachments/assets/40f6a781-ad02-4562-bec8-5857e11f4af5)
+<img src="https://github.com/user-attachments/assets/40f6a781-ad02-4562-bec8-5857e11f4af5" alt="3holding" width="50%">
 
 ## Installation
 
