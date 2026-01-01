@@ -1,2 +1,38 @@
-# Quick-Brush-Size
-Quick Brush Size is a Krita plugin that adds two keyboard shortcuts that increase and decrease your brush size faster than Krita's default shortcuts.
+## Quick Brush Size
+
+The default shortcuts keys `[` and `]` increase or decrease your brush size in Krita.
+When you hold down a key, the brush size changes rather slowly making you hold and wait longer than necessary. 
+
+Quick Brush Size is a Krita plugin that adds two keyboard shortcuts that increase and decrease your brush size faster than Krita's default shortcuts. It also recognizes when you tap your shortcut keys rapidly to change the brush size quicker. This effectively gives you three input methods for more nuanced brush size control rather than just the original two (tap and hold).
+
+#### Tapping
+
+![1tapping](https://github.com/user-attachments/assets/4edd5afe-1fa6-42ad-87dc-ebc201122a28)
+
+
+#### Double-tapping / Rapid-tapping
+
+![2doubletapping](https://github.com/user-attachments/assets/14971262-ed44-4c7b-a5e9-aad93d4ba575)
+
+
+#### Holding
+
+![3holding](https://github.com/user-attachments/assets/40f6a781-ad02-4562-bec8-5857e11f4af5)
+
+## Installation
+
+* Download the [latest version](https://github.com/10zindraws/Scrubby-Zoom/releases/download/v1.0.1/scrubby_zoom-1.0.1.zip) or scroll up and click the green "Code" button, then click "Download ZIP"
+
+* `Tools → Scripts → Import Python Plugin From File →` select the zip file
+
+* Restart Krita
+
+## Settings
+
+You can disable any of the input methods and adjust how fast they change brush sizes in the Quick Brush Size docker. Top bar in Krita: `Settings → Dockers → Quick Brush Size`
+
+<img width="383" height="603" alt="2026-01-01 09-01-03" src="https://github.com/user-attachments/assets/448ba9f3-deb1-49f7-8585-e7c8419135bf" />
+
+### Assign your Keyboard Shortcuts
+
+Top bar in Krita: `Settings → Configure Krita → Keyboard Shortcuts → Quick Brush Size`
